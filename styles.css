@@ -1,0 +1,27 @@
+body {
+    font-family: Poppins, serif;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+table {
+    border: 2px solid olivedrab;
+    width: 650px;
+    margin: 0 auto;
+
+}
+
+.general table {
+    border: 2px solid lightcoral;
+    width: 850px;
+    margin: 0 auto;
+
+}
+
+thead{
+    background-color: olivedrab;
+}
+
+.general thead{
+    background-color: lightcoral;
+}
